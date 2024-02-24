@@ -59,10 +59,21 @@ li {
   padding: 10px;
 }
 
-a {
-  color:#005eff
+h1 a {
+  color:#131414
 }
 
+li a {
+  color:rgb(6, 56, 255)
+}
+
+blockquote a {
+  color:blue;
+}
+
+p a {
+  color: blue;
+}
 
 p1 {
   font-size: 25px;
