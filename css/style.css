@@ -74,13 +74,6 @@ blockquote {
   margin-top: 10px;
 }
 
-.year {
-  font-size: 25px;
-  padding-top: 0px;
-  margin-top: 0px;
-  margin-bottom: 5px;
-}
-
 .description {
   font-size: 18px;
   margin-top: 0px;
@@ -88,7 +81,7 @@ blockquote {
 
 a {
   text-decoration: none;
-  color: #404E6D;
+  color: #004df4;
   margin: 20px
 }
 
@@ -109,3 +102,4 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   color: black;
 }
+
