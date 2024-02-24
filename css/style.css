@@ -6,9 +6,32 @@ body {
   background-color: #c4c7cd;
 }
 
+span {
+  color: #000000;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+
+blockquote {
+  color: #000000;
+  font-size: 28.5px;
+}
+
+h1 a {
+  color: #000000;
+}
+
+h2 {
+  font-size: 40px;
+  padding-top: 5px;
+  color: black;
+}
+
+
+
 .content {
   background-color: #d4cccc;
-  color: #404E6D;
+  color: #000000;
   font-family: "Lato", sans-serif;
   max-width: 1080px;
   margin: 0 auto;
@@ -38,47 +61,36 @@ a p {
   display: block;
   margin: 0 auto;
   margin-top: 0 auto;
-  border-radius: 20%;
-  border: 2px solid #404E6D;
+  border-radius: 50%;
+  border: 5px solid darkblue;
   width: 300px;
   height: 300px;
-}
-
-h1 {
-  color:black;
-}
-
-h2 {
-  font-size: 40px;
-  padding-top: 5px;
 }
 
 li {
   display: inline-block;
   font-size: 25px;
   padding: 10px;
-}
-
-h1 a {
-  color:#131414
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 li a {
   color:rgb(6, 56, 255)
 }
 
-blockquote a {
-  color:blue;
-}
-
 p a {
   color: blue;
 }
 
-p1 {
-  font-size: 25px;
-}
-
 p {
   font-size: 20px;
+  color: rgb(21, 21, 21);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+p1 {
+  font-size: 25px;
+  color: #000000;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
