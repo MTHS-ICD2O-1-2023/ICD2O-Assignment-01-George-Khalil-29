@@ -2,39 +2,18 @@
 
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
+
 body {
-  background-color: rgb(196 199 205);
-}
-
-span {
-  color: rgb(0 0 0);
-}
-
-blockquote {
-  color: rgb(0 0 0);
-  font-size: 28.5px;
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-h1 a {
-  color: rgb(0 0 0);
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-h2 {
-  font-size: 40px;
-  padding-top: 5px;
-  color: rgb(0 0 0);
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  background-color: #404E6D;
 }
 
 .content {
-  background-color: rgb(212 204 204);
-  color: rgb(0 0 0);
+  background-color: #f4f4f4;
+  color: #404E6D;
   font-family: "Lato", sans-serif;
   max-width: 1080px;
   margin: 0 auto;
-  border: 3px solid rgb(209 168 59);
+  border: 3px solid #D1A83B;
 }
 
 h1,
@@ -44,44 +23,89 @@ a p {
   text-align: center;
 }
 
-.mdl-layout__header-row {
-  justify-content: center;
-  padding: 20;
+h1 {
+  font-size: 70px;
+  padding-top: 20px;
 }
 
-.mdl-layout__content {
-  padding-left: 15pt;
-  padding-right: 15pt;
-  padding-top: 15pt;
-}
-.main-pic {
-  display: block;
-  margin: 0 auto;
-  margin-top: 0 auto;
-  border-radius: 50%;
-  border: 5px solid rgb(0 0 139);
-  width: 300px;
-  height: 300px;
+h2 {
+  font-size: 40px;
+  padding-top: 5px;
 }
 
 li {
   display: inline-block;
   font-size: 25px;
   padding: 10px;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
 }
 
-li a {
-  color:rgb(6 56 255)
+.main-pic {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  border: 5px solid #00dcf0;
+  width: 300px;
+  height: 300px;
 }
 
-p a {
-  color: rgb(0 0 255);
+blockquote {
+  text-align: center;
+  font-size: 22px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 50px;
+  color: black;
+}
+
+.noteworthy {
+  max-width: 760px;
+  padding: 20px;
+  margin: 0 auto;
+  clear: both;
+}
+
+.tl-img {
+  width: 200px;
+  height: 100px;
+  background-color: white;
+  border: 2px solid #404E6D;
+  margin-right: 15px;
+  float: left;
+  margin-top: 10px;
+}
+
+.year {
+  font-size: 25px;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.description {
+  font-size: 18px;
+  margin-top: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: #404E6D;
+  margin: 20px
+}
+
+a p:hover {
+  color: #D1A83B;
+}
+
+a p {
+  font-size: 20px;
+}
+
+h4 {
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 p {
-  font-size: 20px;
-  color: rgb(21 21 21);
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
 }
-
