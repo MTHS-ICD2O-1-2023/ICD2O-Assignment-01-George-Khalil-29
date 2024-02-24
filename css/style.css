@@ -44,6 +44,10 @@ a p {
   height: 300px;
 }
 
+h1 {
+  color:black;
+}
+
 h2 {
   font-size: 40px;
   padding-top: 5px;
