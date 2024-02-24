@@ -3,39 +3,38 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 body {
-  background-color: #c4c7cd;
+  background-color: rgb(196 199 205);
 }
 
 span {
-  color: #000000;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  color: rgb(0 0 0);
 }
 
 blockquote {
-  color: #000000;
+  color: rgb(0 0 0);
   font-size: 28.5px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1 a {
-  color: #000000;
+  color: rgb(0 0 0);
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h2 {
   font-size: 40px;
   padding-top: 5px;
-  color: black;
+  color: rgb(0 0 0);
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 .content {
-  background-color: #d4cccc;
-  color: #000000;
+  background-color: rgb(212 204 204);
+  color: rgb(0 0 0);
   font-family: "Lato", sans-serif;
   max-width: 1080px;
   margin: 0 auto;
-  border: 3px solid #D1A83B;
+  border: 3px solid rgb(209 168 59);
 }
 
 h1,
@@ -62,7 +61,7 @@ a p {
   margin: 0 auto;
   margin-top: 0 auto;
   border-radius: 50%;
-  border: 5px solid darkblue;
+  border: 5px solid rgb(0 0 139);
   width: 300px;
   height: 300px;
 }
@@ -75,40 +74,18 @@ li {
 }
 
 li a {
-  color:rgb(6, 56, 255)
+  color:rgb(6 56 255)
 }
 
 p a {
-  color: blue;
+  color: rgb(0 0 255);
 }
 
 p {
   font-size: 20px;
-  color: rgb(21, 21, 21);
+  color: rgb(21 21 21);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-p1 {
-  font-size: 25px;
-  color: #000000;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
 
-p2 {
-  font-size: 25px;
-  color: #000000;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-p3 {
-  font-size: 20px;
-  color: #000000;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-p4 {
-  font-size: 25px;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  color: #000000;
-}
 
