@@ -4,17 +4,13 @@ body {
 }
 
 .content {
+  margin: 0;
   background-color: #f4f4f4;
   color: #404E6D;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   max-width: 1080px;
-  margin: auto;
   border: 5px solid #004df4;
 }
-
-
-
-
 
 p {
   text-align: center;
@@ -45,7 +41,7 @@ li {
 
 img {
   display: block;
-  margin: auto;
+  margin: 0;
   border-radius: 50%;
   border: 5px solid #004df4;
   width: 300px;
@@ -63,18 +59,17 @@ blockquote {
 .noteworthy {
   max-width: 760px;
   padding: 20px;
-  margin: auto;
+  margin: 0;
   clear: both;
 }
 
 .description {
   font-size: 18px;
-  margin-top: 0px;
 }
 
 h4 {
   text-align: center;
-  color: #000;
+  color: black;
   font-family: cursive;
 }
 
@@ -83,4 +78,3 @@ a {
   font-size: 20px;
   text-align: center;
 }
-
