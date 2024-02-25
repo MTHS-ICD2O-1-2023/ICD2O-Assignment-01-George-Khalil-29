@@ -4,7 +4,7 @@ body {
 }
 
 .content {
-  margin: 0;
+  margin: auto;
   background-color: #f4f4f4;
   color: #404E6D;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,7 +41,7 @@ li {
 
 img {
   display: block;
-  margin: 0;
+  margin: auto;
   border-radius: 50%;
   border: 5px solid #004df4;
   width: 300px;
@@ -65,7 +65,7 @@ blockquote {
 
 .description {
   font-size: 18px;
-  margin-top: 0;
+  margin-top: auto;
 }
 
 h4 {
