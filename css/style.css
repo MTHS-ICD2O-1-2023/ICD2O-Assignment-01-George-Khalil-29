@@ -59,7 +59,7 @@ blockquote {
 .noteworthy {
   max-width: 760px;
   padding: 20px;
-  margin: 0;
+  margin: auto;
   clear: both;
 }
 
