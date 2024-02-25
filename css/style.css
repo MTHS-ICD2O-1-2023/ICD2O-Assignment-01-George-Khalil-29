@@ -12,11 +12,15 @@ body {
   border: 5px solid #004df4;
 }
 
+
+
+
+
 p {
   text-align: center;
   font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
-    color: black;
+  color: black;
 }
 
 h1 {
@@ -68,6 +72,12 @@ blockquote {
   margin-top: 0px;
 }
 
+h4 {
+  text-align: center;
+  color: black;
+  font-family: cursive;
+}
+
 a {
   color: #004df4;
 }
@@ -75,11 +85,5 @@ a {
 a{
   font-size: 20px;
   text-align: center;
-}
-
-h4 {
-  text-align: center;
-  color: black;
-  font-family: cursive;
 }
 
